@@ -1,0 +1,53 @@
+body{
+    font-family: 'josefin sans', sans-serif;
+    background-color: rgb(255, 255, 255);
+    align-items:  center;
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 40px;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+}
+.k{
+    text-align: center;
+}
+.rojos{
+    display: flex;
+    justify-content: center;
+}
+h6{
+    text-align: center;
+}
+.led{
+    margin-left: 15px;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+.bh{
+    display: flex;
+    justify-content: center;
+    border-radius: 110%;
+}
